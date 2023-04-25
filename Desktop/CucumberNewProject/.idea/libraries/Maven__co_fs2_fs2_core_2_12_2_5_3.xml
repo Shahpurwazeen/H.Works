@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: co.fs2:fs2-core_2.12:2.5.3">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/co/fs2/fs2-core_2.12/2.5.3/fs2-core_2.12-2.5.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/co/fs2/fs2-core_2.12/2.5.3/fs2-core_2.12-2.5.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/co/fs2/fs2-core_2.12/2.5.3/fs2-core_2.12-2.5.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
